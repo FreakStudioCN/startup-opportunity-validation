@@ -1,0 +1,1001 @@
+﻿project_id,project,category,source,event_year,attention,reselection,money,activation,outcome,usage,purchase,repeat,friction,total_signal_volume,money_per_attention,outcome_per_attention,reselection_per_attention,friction_per_usage,opportunity_signal_grade
+recent_an-autonomous-agent-for-slay-the,An Autonomous Agent for Slay the,AI Products,show_hn,2026,1,0,0,2,1,1,0,1,0,3,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-menu-bar-app-to,I built a menu-bar app to,SaaS / Software,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_structure-from-attention,Structure from Attention,SaaS / Software,show_hn,2026,109,41,28,97,97,80,4,125,73,419,0.257,0.89,0.376,0.912,A: 行为链较完整
+recent_i-have-been-clawed,I Have Been Clawed,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_directxsplat,DirectXSplat,Hardware,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_i-built-a-tool-that-runs,I built a tool that runs,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_gawkbot,Gawkbot,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_1dial-an-ai-you-can-call-text,"1Dial, an AI you can call/Text",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_orchestrate-frontier-ais-on-the-subscriptions,Orchestrate frontier AIs on the subscriptions,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_browser-splitview-master,Browser SplitView Master,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_markdown-gatekeeper,Markdown Gatekeeper,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pastecmd,Pastecmd,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_haserupt,Haserupt,AI Products,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_one-versioned-standard-for-a-fleet-s,One versioned standard for a fleet's,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_forum,Forum,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_didit-run,Didit.run,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_memcode-launches-github-code-review,Memcode Launches GitHub Code Review,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_local-ai-assistants-can-be-user,Local AI Assistants can be user,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rust-compiler-converting-cpgs-to-nuclei,Rust compiler converting CPGs to Nuclei,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_life-compass,Life Compass,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_notes-plus,Notes Plus,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_secure-agentic-email-infrastructure-with-beta,Secure agentic email infrastructure with beta,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tinyjs,TinyJS,AI Products,show_hn,2026,1,0,1,1,1,0,0,1,1,5,1.0,1.0,0.0,1.0,D: 信号稀疏
+recent_weedout,Weedout,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rails-baseline,Rails Baseline,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_superagent-a-computer-for-your-coding,"Superagent, a computer for your coding",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_fountain,Fountain,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_compilr-dev-studio,Compilr.dev Studio,AI Products,show_hn,2026,0,0,0,1,1,1,0,2,1,2,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_hn-match-maker,HN Match Maker,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_the-daily-set,The Daily Set,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_groundbeat,Groundbeat,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_teslacode-dev,Teslacode.dev,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mcptunnels,Mcptunnels,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vedic-astrology-from-your-vedic-birth,Vedic astrology from your Vedic birth,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_indextkn,Indextkn,AI Products,show_hn,2026,0,0,1,1,0,0,0,0,0,2,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_gorilla-warefare,Gorilla Warefare,SaaS / Software,show_hn,2026,2,3,3,6,4,3,1,10,8,21,1.5,2.0,1.5,2.667,A: 行为链较完整
+recent_phone-cigarette,Phone Cigarette,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_claude-and-chatgpt-need-a-datacenter,Claude and ChatGPT need a datacenter.,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_codex-remote-control,codex-remote-control,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_personal-ai-use-policies,Personal AI Use Policies,AI Products,show_hn,2026,30,11,18,60,49,45,2,65,30,169,0.6,1.633,0.367,0.667,A: 行为链较完整
+recent_meridianos,MeridianOS,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kaden-terminal,Kaden Terminal,AI Products,show_hn,2026,1,0,0,1,1,1,0,2,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_gopdfrab,Gopdfrab,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_wife-ai-that-lets-you-pick,Wife: AI that lets you pick,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vayvan,Vayvan,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_wasmer-sdk,Wasmer SDK,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-free-app-store,I built a free App Store,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_three-pins-a-daily-3-hole-golf,Three Pins a daily 3-hole golf,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rust-glancer-0-2,Rust Glancer 0.2,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_semantic-overlays,Semantic Overlays,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sift-an-ios-app-that-auto-detects,"Sift, an iOS app that auto-detects",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_executor,Executor,Developer Tools,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_heaviside-1-a-foundation-model-for-electromagnetism,"Heaviside-1, a foundation model for electromagnetism",AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_seedeep,Seedeep,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_supafork,Supafork,AI Products,show_hn,2026,0,0,0,2,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_a-public-archive-where-temporary-ai,A public archive where temporary AI,AI Products,show_hn,2026,1,1,0,2,1,1,0,1,0,5,0.0,1.0,1.0,0.0,D: 信号稀疏
+recent_newton-s-orchard,Newton's Orchard,Developer Tools,show_hn,2026,2,0,0,0,0,0,0,1,1,4,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_running-104gb-qwen3-8-flash-next-on-48gb-mac,Running 104GB Qwen3.8-Flash-Next on 48GB Mac,AI Products,show_hn,2026,0,0,0,2,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_malinois,Malinois,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-spent-3-years-building-a,I spent 3 years building a,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tenux,Tenux,Hardware,show_hn,2026,0,0,0,2,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_serde-shape-reflects-the-data-model-of,Serde-shape reflects the data model of,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_amendable,Amendable,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_the-fastest-local-h3-video-generation,The Fastest Local H3 Video Generation,AI Products,show_hn,2026,1,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_orthogonal,Orthogonal,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,1,4,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_nosedive,Nosedive,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ship-app-updates-without-app-store,Ship app updates without App Store,SaaS / Software,show_hn,2026,0,0,1,3,2,2,0,3,2,7,1.0,2.0,0.0,1.0,D: 信号稀疏
+recent_signfile,Signfile,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_shed,Shed,AI Products,show_hn,2026,1,0,1,1,0,0,0,1,1,4,1.0,0.0,0.0,1.0,D: 信号稀疏
+recent_don-t-trust-me-bro-fixing-gpt-oss,Don't trust me bro: fixing GPT-OSS,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_redash-fork-with-ai-capabilities,Redash Fork with AI Capabilities,AI Products,show_hn,2026,0,0,0,2,2,2,0,3,1,3,0.0,2.0,0.0,0.5,D: 信号稀疏
+recent_the-rewind-a-personalised-weekly-newsletter,"The Rewind, a personalised weekly newsletter",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_lanes-simple-claude-coordination-that-exploits,"Lanes, simple Claude coordination that exploits",SaaS / Software,show_hn,2026,0,0,1,0,0,0,0,0,0,1,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_3d-internet-map-v1-0-1,3D Internet Map v1.0.1,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-game-where-you,I built a game where you,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tracking-number-formats-community-reverse-engineered-since,"Tracking number formats, community reverse-engineered since",Marketplace / Platform Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_zero-shot,Zero Shot,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_selfship-ai,Selfship.ai,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_slopyard,Slopyard,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-measured-when-impossible-to-book-restaurants-release,I measured when impossible-to-book restaurants release,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pen-fight,Pen Fight,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_will-your-money-last-ai-assisted-financial,Will your money last? AI-assisted financial,AI Products,show_hn,2026,1,0,0,0,0,0,0,1,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_pearpie,PearPie,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ambavi,Ambavi,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_binocular-discrepancy,Binocular Discrepancy,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_dashwise,Dashwise,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_openheim,Openheim,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_deterministic-jitter-suppression-for-jax-xla-pipelines,Deterministic Jitter Suppression for Jax/XLA Pipelines,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_oss-k8s-native-ai-platform-for-distributed,"OSS, K8s-native AI platform for distributed",AI Products,show_hn,2026,1,0,0,1,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_invader,Invader,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_an-ipad-reader-for-mendeley-which,"An iPad reader for Mendeley, which",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-answers-with-interactive-video,AI Answers with Interactive Video,AI Products,show_hn,2026,33,8,9,10,10,9,0,22,17,92,0.273,0.303,0.242,1.889,B: 有重新选择和商业意图
+recent_squiglyy,Squiglyy,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_abc-v0-1,ABC v0.1,Hardware,show_hn,2026,0,0,0,1,1,1,0,2,1,2,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_i-gathered-992-posts-about-my,I gathered 992 posts about my,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_eu-hosted-content-extraction-api,EU-hosted content extraction API,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_noctovisor,Noctovisor,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_durable-workflow-2-0-polyglot-workflows-in,Durable Workflow 2.0 polyglot workflows in,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_mqlens,MQLens,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_swoff,Swoff,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-sourced-runtime-for-better-codex-and,Open-sourced runtime for better Codex and,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_manzanas,Manzanas,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_indexflow-seo,Indexflow-SEO,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sqlflow-duckdb-for-streaming-data-go,SQLFlow (DuckDB for streaming data) Go,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_use-ai-to-make-fun-of,Use AI to make fun of,AI Products,show_hn,2026,139,36,34,160,153,127,12,191,114,537,0.245,1.101,0.259,0.898,A: 行为链较完整
+recent_aicademy,AICademy,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_lit-cli,Lit-CLI,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_keeplea,Keeplea,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_flightpowers,FlightPowers,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_throttling-ai-models-under-load-can,Throttling AI models under load can,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_fottly,Fottly,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-made-a-game-inspired-by,I made a game inspired by,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_in-browser-imessage-exporter-for-mac-chat-db,In-browser iMessage exporter for Mac chat.db,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_srmed,Srmed,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vocalclip,VocalClip,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-wrote-a-small-cli-to,I wrote a small CLI to,AI Products,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_calprep,CalPrep,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_brilliant,Brilliant,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_an-open-url-format-for-ai,An open URL format for AI,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-proxy-between-llms-and-mcp,A Proxy between LLMs and MCP,AI Products,show_hn,2026,1,0,0,0,0,0,0,1,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_what-differentiates-developers-when-we-all,What differentiates developers when we all,AI Products,show_hn,2026,0,0,1,1,1,1,0,1,0,3,1.0,1.0,0.0,0.0,D: 信号稀疏
+recent_waves-audio-repair-that-took-14-817,"Waves, audio repair that took 14,817",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-bot,I Built a Bot,AI Products,show_hn,2026,490,140,148,568,449,398,11,652,340,1863,0.302,0.916,0.286,0.854,A: 行为链较完整
+recent_ai-powered-link-building-and-seo-outreach,"AI-powered link building and SEO outreach,",AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-live-stream-site,I built a live stream site,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_turn-your-face-into-an-ascii,Turn your face into an ASCII,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cuecast,CueCast,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hypermarkdown-streaming-markdown-renderer-for-react,"HyperMarkdown, streaming Markdown renderer for React",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_wordle-for-memecoins,Wordle for Memecoins,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_unitpost-email,Unitpost/email,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_rxlab-market,Rxlab market,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_choosecompute,ChooseCompute,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_promptlab,PromptLab,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_strunk,Strunk,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_edify,Edify,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_give-your-agent-somewhere-to-think,Give your agent somewhere to think,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_fly-by,Fly By,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_commit-town,Commit Town,SaaS / Software,show_hn,2026,62,17,22,75,62,57,3,89,57,260,0.355,1.0,0.274,1.0,A: 行为链较完整
+recent_another-text-editor,Another Text Editor,SaaS / Software,show_hn,2026,151,100,21,184,163,145,7,212,96,568,0.139,1.079,0.662,0.662,A: 行为链较完整
+recent_watn,Watn,AI Products,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-kept-finding-robot-datasets-with,I kept finding robot datasets with,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_european-weather-outlook-28-august,"European weather outlook, 28 August",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-real-time-translator-for,I built a real-time translator for,AI Products,show_hn,2026,3,1,0,3,3,3,0,7,6,13,0.0,1.0,0.333,2.0,D: 信号稀疏
+recent_verb-authority,Verb Authority,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_chatgpt-work-isn-t-working,ChatGPT Work Isn't Working,AI Products,show_hn,2026,49,20,10,60,58,51,3,67,89,263,0.204,1.184,0.408,1.745,A: 行为链较完整
+recent_codex-skin-a-plugin-for-applying,"Codex Skin, a plugin for applying",AI Products,show_hn,2026,1,0,0,1,0,0,0,1,1,3,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_mcpbeat,Mcpbeat,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-ve-opensourced-saas-that-was-started,I've opensourced SaaS that was started,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-bluesky-bot-that-shares-wikipedia,A Bluesky bot that shares Wikipedia,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_compute-cheap,Compute.cheap,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kagelin,Kagelin,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_clippy-vision,Clippy Vision,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_eatheria,Eatheria,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_openrouter-for-sandboxes,OpenRouter for Sandboxes,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_serendipity,Serendipity,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_seatlr,Seatlr,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-the-ai-command-center,I Built the AI command center,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-curated-library-of-hero-sections,A Curated Library of Hero Sections,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_deslop-a-skill-that-turns-legalese,"Deslop, a skill that turns legalese",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-rebuilt-tank-game-with-new,I rebuilt tank game with new,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_chaosword,Chaosword,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_saccade,Saccade,AI Products,show_hn,2026,0,0,0,2,1,1,0,1,0,3,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_nos4-new-nostalgic-internet-toy-a,"Nos4, new nostalgic internet toy. A",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_libraries-ink,Libraries.ink,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_guided-sentence-diagramming-to-practice-grammar,Guided sentence diagramming to practice grammar,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-agent-forum,Open Agent Forum,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_49-ide,49 IDE,Hardware,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_markdown-viewer-and-editor,Markdown Viewer and Editor,AI Products,show_hn,2026,13,7,3,25,16,14,1,28,17,66,0.231,1.231,0.538,1.214,A: 行为链较完整
+recent_tubeviz,Tubeviz,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cdai,cdai,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_claude-code-arcade,Claude Code Arcade,AI Products,show_hn,2026,9,3,2,14,11,11,0,14,6,38,0.222,1.222,0.333,0.545,A: 行为链较完整
+recent_i-made-a-minimalist-digital-zine,I made a minimalist digital zine,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sheet-based-infrastructure-sheeternetes-and-sheet-native-foundation,"Sheet-Based Infrastructure, Sheeternetes and Sheet-Native Foundation",Developer Tools,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_transform-text-and-images-into-cinematic,Transform text and images into cinematic,AI Products,show_hn,2026,1,0,1,1,1,1,0,4,3,6,1.0,1.0,0.0,3.0,D: 信号稀疏
+recent_room-treatment,Room Treatment,SaaS / Software,show_hn,2026,37,16,18,26,23,15,1,37,26,146,0.486,0.622,0.432,1.733,A: 行为链较完整
+recent_keel,Keel,AI Products,show_hn,2026,6,2,0,4,2,2,0,4,7,20,0.0,0.333,0.333,3.5,D: 信号稀疏
+recent_doom-compiled-into-an-llm,Doom Compiled into an LLM,AI Products,show_hn,2026,3,2,0,2,3,2,0,4,3,12,0.0,1.0,0.667,1.5,D: 信号稀疏
+recent_terminal-browser,Terminal-browser,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_super-cli-mario,Super CLI MARIO,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_popsql-and-seekwell-were-shutting-down,"PopSQL and SeekWell were shutting down,",Developer Tools,show_hn,2026,0,0,0,0,1,0,0,0,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_another-marketplace-for-returns-overstock-and,"*Another* marketplace for returns, overstock, and",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_logicola-3,LogiCola 3,SaaS / Software,show_hn,2026,212,93,70,223,207,178,14,270,151,871,0.33,0.976,0.439,0.848,A: 行为链较完整
+recent_sidework,Sidework,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_silent-fail-get-an-email-when,"Silent Fail, get an email when",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_an-agent-that-finds-you-jobs,An agent that finds you jobs,AI Products,show_hn,2026,18,5,1,16,13,13,0,14,9,51,0.056,0.722,0.278,0.692,B: 有重新选择和商业意图
+recent_guess-the-ai-model-from-its,Guess the AI model from its,AI Products,show_hn,2026,1,0,1,2,1,1,0,3,0,8,1.0,1.0,0.0,0.0,D: 信号稀疏
+recent_kiso,Kiso,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tool-suite-for-c-lvl-managers,"Tool suite for C lvl managers,",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_xyzzy,Xyzzy,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_your-tree,Your Tree,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pipy-semantic-search-mcp-for-ai,PiPy semantic search MCP for AI,AI Products,show_hn,2026,4,2,1,13,4,4,0,9,5,24,0.25,1.0,0.5,1.25,B: 有重新选择和商业意图
+recent_tray-bio,Tray.bio,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_appwrite-2-0,Appwrite 2.0,AI Products,show_hn,2026,4,0,0,0,0,0,0,1,1,6,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_an-open-source-tool-for-heterogeneous-replications,an open-source tool for heterogeneous replications,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_10x-token-savings-for-ai-web,10x token savings for AI Web,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_training-and-trading-agentic-intelligence-with,Training and trading agentic intelligence with,AI Products,show_hn,2026,1,0,1,1,0,0,0,0,0,2,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_abliterated-glm-5-3-api,Abliterated GLM-5.3 API,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tekmyra,TekMyra,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_retainfast,RetainFast,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tinyengine,TinyEngine,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rta-smriti,Rta-Smriti,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_d5s-an-ai-coworking-space-for,"D5s, an AI coworking space for",AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_i-benchmark-local-llms-on-real,I benchmark local LLMs on real,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_corporate-mind-games,Corporate Mind Games,SaaS / Software,show_hn,2026,0,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_i-built-snapquo-because-i-hated,I built Snapquo because I hated,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_ascii-cnlibs,ASCII/cnlibs,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_booth-a-lightweight-checkpoint-library-for,"Booth, A lightweight checkpoint library for",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_turn-repeated-coding-agent-corrections-into-rules-skills,Turn repeated coding-agent corrections into rules/skills,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_review-large-code-changes-in-your,Review large code changes in your,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_manner,Manner,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_my-ai-spent-15-on-a,My AI spent $15 on a,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_repoflows,RepoFlows,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mcp-locker-one-private-endpoint-for,MCP Locker: One private endpoint for,SaaS / Software,show_hn,2026,0,0,0,1,1,1,0,2,1,2,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_e-ink-optimized-manga-for-koreader-kindle,"E-Ink Optimized Manga for KOreader, Kindle,",SaaS / Software,show_hn,2026,2,0,0,2,2,2,0,4,2,6,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_scoring-4-811-job-tasks-against-machine,"Scoring 4,811 job tasks against machine",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_preview-postgres-writes-from-ai-agents,Preview Postgres writes from AI agents,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_what-happens-when-you-give-your,What Happens When You Give Your,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_slotstream-run-qwen3-8-flash-next-4-bit-on-a,"Slotstream, run Qwen3.8-Flash-Next 4-bit on a",AI Products,show_hn,2026,0,0,0,4,2,2,0,2,0,4,0.0,2.0,0.0,0.0,D: 信号稀疏
+recent_woml,WOML,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_license-detector,License Detector,Developer Tools,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-startup-trustedrouter-raises-1-25m,AI startup TrustedRouter raises $1.25M,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_actionful,Actionful,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_png-binder,PNG Binder,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_annotate-anything-in-the-terminal,Annotate Anything in the Terminal,SaaS / Software,show_hn,2026,2,0,0,1,1,1,0,1,0,3,0.0,0.5,0.0,0.0,D: 信号稀疏
+recent_ai-tattoo-design-and-planning-tools,AI Tattoo Design and Planning Tools,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-file-based-router-for-cloudflare-workers,A file-based router for Cloudflare Workers,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_clicking-a-react-element-shouldn-t-stop,Clicking a React element shouldn't stop,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ios-app-for-creating-pdf-s-from,iOS App for creating PDF's from,SaaS / Software,show_hn,2026,2,0,2,4,2,2,0,2,0,9,1.0,1.0,0.0,0.0,A: 行为链较完整
+recent_cutaway-1-5-7,Cutaway 1.5.7,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cool-concepts,Cool Concepts,SaaS / Software,show_hn,2026,252,96,51,285,255,225,13,330,179,959,0.202,1.012,0.381,0.796,A: 行为链较完整
+recent_assemble-context-for-analytics-agents-from,Assemble context for analytics agents from,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_linux-server-management-over-ssh,Linux server management over SSH,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_doglm,DogLM,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kanvibe,KanVibe,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cut-list-studio,Cut List Studio,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_that-works,That works,SaaS / Software,show_hn,2026,45,12,6,30,35,25,3,46,35,163,0.133,0.778,0.267,1.4,A: 行为链较完整
+recent_jit-skill-architecture-for-ai-agents,JIT Skill Architecture for AI Agents,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-social-web-experiment,I built a social web experiment,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tinygit,TinyGit,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hybrids,Hybrids,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_nos4-fun,Nos4.fun,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-dedicated-hub-to-find-test,"A dedicated hub to find, test,",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_decispher,Decispher,AI Products,show_hn,2026,2,1,0,1,1,1,0,1,1,5,0.0,0.5,0.5,1.0,D: 信号稀疏
+recent_words-to-worlds,Words to Worlds,SaaS / Software,show_hn,2026,2,2,1,1,1,1,0,1,1,7,0.5,0.5,1.0,1.0,B: 有重新选择和商业意图
+recent_agix,agix,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_astral,Astral,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-this-social-leaderboard-game,I built this social leaderboard game,Consumer Products,show_hn,2026,2,1,0,0,0,0,0,1,1,4,0.0,0.0,0.5,1.0,D: 信号稀疏
+recent_our-glm-5-3-flash-switchless-recipe-is,Our GLM-5.3 Flash Switchless recipe is,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_three-slicer-i-ported-orcaslicer-to,"Three Slicer, I ported OrcaSlicer to",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_slideops,SlideOps,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_stickyboard,Stickyboard,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_the-economic-atlas-a-data-first-dashboard,The Economic Atlas: a data-first dashboard,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_we-tried-to-recover-blurred-pixelated,"We tried to recover blurred, pixelated",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_evoboard,Evoboard,Developer Tools,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_ai-studio-with-500-models-for,AI studio with 500 models for,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_swiftmo-power-captures-real-time-exercise-kinematics,SwiftMo Power captures real-time exercise kinematics,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_floe,Floe,AI Products,show_hn,2026,1,1,0,2,1,1,0,1,0,3,0.0,1.0,1.0,0.0,D: 信号稀疏
+recent_free-fast-screenshot-app-for-macos,"Free, Fast Screenshot App for macOS",AI Products,show_hn,2026,2,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_smooth-game-streaming-with-latency-on,Smooth Game streaming with latency on,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_highlander,Highlander,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-tracked-55k-free-proxies-for,I tracked 55k free proxies for,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vajraclaw,VajraClaw,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-pi-extension-to-monitor-your,A Pi extension to monitor your,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_catch-ai-code-hallucinations-without-asking,Catch AI code hallucinations without asking,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_no-rush,No Rush,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_schist,Schist,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sonde-a-local-code-graph-for,"Sonde, a local code graph for",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_live-step-through-diagram-embeds-for-confluence,"Live, step-through diagram embeds for Confluence",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_type,Type,SaaS / Software,show_hn,2026,14383,5811,3361,17403,15766,14021,808,22860,11869,59897,0.234,1.096,0.404,0.847,A: 行为链较完整
+recent_albums-vault-my-take-on-how,"Albums Vault, my take on how",Developer Tools,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_flarepeek,FlarePeek,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tracking-spec-driven-development-in-the-wild,Tracking spec-driven development in the wild,Marketplace / Platform Products,show_hn,2026,1,0,0,5,2,2,0,2,3,11,0.0,2.0,0.0,1.5,D: 信号稀疏
+recent_scriptspool,ScriptSpool,SaaS / Software,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_growtics,Growtics,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_maccyp,MaCcyP,AI Products,show_hn,2026,0,0,0,2,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_prove-your-code-produced-your-claims,Prove your code produced your claims,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_card-shop-directory,Card Shop Directory,Marketplace / Platform Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-asked-llms-to-choose-between,I asked LLMs to choose between,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_scoutlayer,ScoutLayer,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_recql,RecQL,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_niu-lai-series-website,Niu Lai Series Website,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_shell-utility-for-encrypting-and-decrypting,Shell utility for encrypting and decrypting,SaaS / Software,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_how-to-fish-game-wiki,How to Fish Game Wiki,Consumer Products,show_hn,2026,5,2,1,4,5,3,1,6,2,18,0.2,1.0,0.4,0.667,B: 有重新选择和商业意图
+recent_magic-layers,Magic Layers,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_python-static-site-generator-for-small,Python Static Site Generator for Small,AI Products,show_hn,2026,1,0,1,1,1,1,0,2,1,4,1.0,1.0,0.0,1.0,D: 信号稀疏
+recent_clownbid-lol,Clownbid.lol,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_break-5-the-addictive-free-5,"Break 5, the addictive, free 5",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-source-hands-free-mouse-control-with-tracky,Open-source hands-free mouse control with Tracky,Developer Tools,show_hn,2026,1,0,0,1,1,1,0,2,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_st-louis-food-map,St. Louis Food Map,AI Products,show_hn,2026,3,0,0,2,4,2,0,4,2,9,0.0,1.333,0.0,1.0,D: 信号稀疏
+recent_what-apple-s-os-updates-silently-change,What Apple's OS updates silently change,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-timestamped-34-trading-strategy-sweeps,I timestamped 34 trading strategy sweeps,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_academa,Academa,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_ration,Ration,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_manage-coding-norms-across-your-ai,Manage coding norms across your AI,AI Products,show_hn,2026,1,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_hide-the-mac-menu-bar-or,Hide the Mac menu bar or,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_shadertoyx,ShaderToyX,SaaS / Software,show_hn,2026,17,3,10,40,40,33,0,49,18,92,0.588,2.353,0.176,0.545,A: 行为链较完整
+recent_bill-fans-per-post-not-per,"Bill fans per post, not per",SaaS / Software,show_hn,2026,1,0,1,3,1,1,0,2,1,5,1.0,1.0,0.0,1.0,D: 信号稀疏
+recent_automated-sanborn-map-georeferencing-with-a,"Automated Sanborn map georeferencing, with a",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_m-dicos-por-venezuela,Médicos por Venezuela,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_roam-a-gps-speedometer-that-tries,"Roam, a GPS speedometer that tries",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_invovanta,Invovanta,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-big-five-personality-test-with,A Big Five personality test with,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_anvendor,AnVendor,AI Products,show_hn,2026,2,1,2,2,1,1,0,1,1,9,1.0,0.5,0.5,1.0,D: 信号稀疏
+recent_cogram-studio,Cogram Studio,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,1,4,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_mytops,MyTops,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hillock-local-neuro-symbolic-memory-engine-in,Hillock: Local neuro-symbolic memory engine in,SaaS / Software,show_hn,2026,3,4,0,2,2,2,0,2,0,7,0.0,0.667,1.333,0.0,D: 信号稀疏
+recent_skills-mcp,Skills MCP,AI Products,show_hn,2026,453,214,109,713,494,474,11,722,360,1954,0.241,1.091,0.472,0.759,A: 行为链较完整
+recent_randomly-sample-locations-on-streets,Randomly Sample Locations on Streets,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_flint,Flint,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tinysandbox-js-runtime,Tinysandbox-JS-Runtime,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_abracadanames,AbracadaNames,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_text-logo,Text Logo,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_simurg-open-source-web-search-for-ai,Simurg open-source web search for AI,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_opencode2-hud,OpenCode2 HUD,SaaS / Software,show_hn,2026,87,41,26,190,163,155,3,210,79,461,0.299,1.874,0.471,0.51,A: 行为链较完整
+recent_claude-skills-starter-kit,Claude Skills Starter Kit,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_an-implementation-of-scheme-in-rust,An Implementation of Scheme in Rust,SaaS / Software,show_hn,2026,16,7,3,21,20,18,2,34,22,83,0.188,1.25,0.438,1.222,A: 行为链较完整
+recent_i-filtered-august-who-is-hiring,I filtered August Who is Hiring,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cardgo,CardGo,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_bentopdf-hyper-compress-and-kura,"BentoPDF, Hyper Compress and Kura",AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_piqt,Piqt,Hardware,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_outfund,OutFund,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_snaketron,Snaketron,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_nohtml-felixs-eu,Nohtml.felixs.eu,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mktero,Mktero,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_spewer,Spewer,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_murmell,Murmell,AI Products,show_hn,2026,1,0,0,0,1,0,0,2,2,4,0.0,1.0,0.0,2.0,D: 信号稀疏
+recent_sapporta,Sapporta,AI Products,show_hn,2026,2,2,0,2,2,2,0,6,4,12,0.0,1.0,1.0,2.0,D: 信号稀疏
+recent_finbridge,FinBridge,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cushion,Cushion,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_an-anonymous-no-signup-alert-app,"An anonymous, no-signup alert app",Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-sar-cop,Open SAR-COP,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-physical-dream-machine,I built a physical dream machine,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ttydterm-browser-terminals-with-unix-tools,"Ttydterm, browser terminals with Unix tools",AI Products,show_hn,2026,1,0,0,0,0,0,0,0,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_podiom,Podiom,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_c-game-engine-with-its-own,C# Game Engine with its own,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_self-hosted-mobile-friendly-web-ui-for-herdr,Self-hosted mobile-friendly web UI for Herdr,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_shevtoneaudio-orchestrator,ShevtoneAudio Orchestrator,AI Products,show_hn,2026,0,0,0,0,1,0,0,0,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_my-startup-idea-scanner-scored-500-ideas,My startup-idea scanner scored 500 ideas;,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_1endpoint,1endpoint,AI Products,show_hn,2026,0,0,1,0,0,0,0,1,1,2,1.0,0.0,0.0,1.0,D: 信号稀疏
+recent_the-thousand,The Thousand,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_get-your-free-ai-search-visibility,Get your free AI search visibility,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_nuzzle,Nuzzle,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_drop-a-sql-schema-get-an,"Drop a SQL schema, get an",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_time-tracking-for-solo-consultants-that,Time tracking for solo consultants that,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_train-300m-32-layer-model-in-1-5gb-ram,Train 300M/32-Layer Model in 1.5GB RAM,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rose,Rose,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_bolnee-chat,Bolnee-Chat,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_lexino,Lexino,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_explore-the-solar-system-with-hand,Explore the solar system with hand,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_dice-for-board-games-and-rpgs,Dice for Board Games and RPGs,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_photo-manager-that-find-and-organize,Photo Manager That Find and Organize,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_atlas-face,Atlas:Face,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_issue-tracker-that-replays-workflows-deeply,"Issue tracker that replays workflows, deeply",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-made-a-signage-visualizer-tool,I made a signage visualizer tool,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-terminal-pager-that,I built a terminal pager that,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agentgate,AgentGate,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_velocitynote,VelocityNote,Hardware,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_runcoder,RunCoder,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_scripttap,ScriptTap,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_masareef,Masareef,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_n8n-community-node-for-shotium,N8n community node for Shotium,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-comic-webtoon-reader-with-css-scroll-snap,"A comic/webtoon reader with CSS scroll-snap,",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-source-dataset-cleaner-for-jsonl,Open source dataset cleaner for JSONL,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_offline-music-practice-apps,Offline music practice apps,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_claypot,Claypot,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_practice-where-countries-are-in-the,Practice where countries are in the,SaaS / Software,show_hn,2026,37,13,12,26,37,20,5,45,32,162,0.324,1.0,0.351,1.6,A: 行为链较完整
+recent_memnest-local-first-memory-shared-by-pi,"Memnest, local-first memory shared by pi,",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_typegpu-realtime-physics-sandbox,TypeGPU Realtime Physics Sandbox,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_free-english-shadowing-app-for-your,Free English shadowing app for your,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_turn-your-github-activity-into-a,Turn your GitHub activity into a,Developer Tools,show_hn,2026,3,3,2,1,0,0,0,0,0,7,0.667,0.0,1.0,0.0,B: 有重新选择和商业意图
+recent_hn-mirror-with-image-previews,HN Mirror with Image Previews,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cardwall,Cardwall,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_from-a-9mb-app-to-processing,From a 9MB app to processing,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vibeguard,VibeGuard,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-might-have-built-the-best,I might have built the best,AI Products,show_hn,2026,0,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_live-ai-video-streams-that-write,Live AI video streams that write,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_delete-yourself-from-data-brokers-without,Delete yourself from data brokers without,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-agents-for-osint-sigint,AI Agents for Osint/Sigint,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_we-built-semantic-search-over-the,We built semantic search over the,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_convert-png-and-jpg-to-clean,Convert PNG and JPG to clean,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_writing-a-3d-printing-slicer-from,Writing a 3D Printing Slicer from,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-slm-optimized-for-tool-calling,A SLM Optimized for Tool Calling,SaaS / Software,show_hn,2026,2,1,1,2,2,1,0,2,0,7,0.5,1.0,0.5,0.0,D: 信号稀疏
+recent_documentation-ai-md,Documentation.ai.md,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-images-and-videos-from-text,"AI images and videos from text,",AI Products,show_hn,2026,3,1,3,4,4,3,0,5,2,15,1.0,1.333,0.333,0.667,A: 行为链较完整
+recent_deckle,Deckle,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ssh-ache,SSH Ache,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_stop-that-shit,Stop That Shit,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_moe-direct,Moe-Direct,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_ai-harness-that-lets-a-graph,AI Harness that lets a graph,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_procedural-droid-sounds-for-microduck,Procedural Droid Sounds for Microduck,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_lumify,Lumify,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_phpez,PhpEZ,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_open-source-local-whisper-flow-alternative,Open-Source Local Whisper Flow Alternative,SaaS / Software,show_hn,2026,0,5,0,6,4,4,0,6,3,14,0.0,4.0,5.0,0.75,D: 信号稀疏
+recent_ubimage-an-iphone-app-that-draws,Ubimage an iPhone app that draws,Hardware,show_hn,2026,1,0,0,0,0,0,0,1,2,3,0.0,0.0,0.0,2.0,D: 信号稀疏
+recent_3d-embodiment-of-your-git-repo,3D Embodiment of your Git repo,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_iatethis-a-local-first-meal-tracker,"iatethis, A local first meal tracker",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_interactive-mcu-timeline,Interactive MCU Timeline,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-super-easy-way-to-capture,A super easy way to capture,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_shook,SHOOK,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_idea-miner,Idea Miner,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_layoverguard,LayoverGuard,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-was-getting-tired-of-looking,I was getting tired of looking,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_scraper-that-probes-a-site-before,Scraper that probes a site before,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_skillbased-versioning-v1-0-2,Skillbased Versioning v1.0.2,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_too-many-articles-to-read-let,"Too many articles to read, let",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_datazen,DataZen,AI Products,show_hn,2026,1,1,0,1,1,1,0,2,1,5,0.0,1.0,1.0,1.0,D: 信号稀疏
+recent_teamnaire,Teamnaire,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hexraid,HexRaid,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-downloader-for-public-social-posts,"A downloader for public social posts,",Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_visual-workspace-to-design-and-operate,Visual workspace to design and operate,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_turn-mineral-collections-into-3d-virtual,Turn mineral collections into 3D virtual,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_the-impact-that-made-the-moon,"The impact that made the Moon,",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vt-code,VT Code,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pico-faces,Pico-Faces,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_laser-graffiti,Laser Graffiti,SaaS / Software,show_hn,2026,11,0,2,5,7,3,3,5,3,25,0.182,0.636,0.0,1.0,A: 行为链较完整
+recent_stumpzlib,Stumpzlib,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pictiur-image-converter-optimizer-and-resizer,"Pictiur: Image converter, optimizer and resizer,",AI Products,show_hn,2026,0,0,0,1,0,0,0,1,2,4,0.0,0.0,0.0,2.0,D: 信号稀疏
+recent_toolchestrator,Toolchestrator,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_qwiksi-a-cli-tool-for-adding,Qwiksi a CLI tool for adding,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_niche,Niche,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_deepseekgui,DeepSeekGUI,AI Products,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_editorial-pr-and-guest-post-placements,"Editorial PR and guest post placements,",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_the-ui-ai-slop-game-no-one,The UI AI-Slop game. No one,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hikaru,Hikaru,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_snippety,Snippety,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_player-vs-computer,Player vs. Computer,AI Products,show_hn,2026,7,6,5,9,7,5,1,8,2,25,0.714,1.0,0.857,0.4,A: 行为链较完整
+recent_agentbridge,AgentBridge,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kith,Kith,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_bora-praia,Bora Praia,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-free-ai-news-briefing-agent,A free AI news briefing agent,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_itsuki,Itsuki,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_airtight,Airtight,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_doodle-ai-open-source-photo-to-doodle-avatar-generator,Doodle AI: open-source photo-to-doodle avatar generator,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_explore-jvm-class-resolution-traces-as-interactive,Explore JVM class-resolution traces as interactive,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tokensift-an-open-sourced-token-efficiency-linter-for,"Tokensift, an open-sourced token-efficiency linter for",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_visits-report,Visits.Report,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_amc-stocks-hub,AMC Stocks Hub,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_appscreenshots,AppScreenshots,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_slidex,SlideX,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_metis,Metis,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_archlex-a-small-oss-language-for,ArchLex: a small OSS language for,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_leiolai-ai-that-pays-users-for,"Leiolai, AI that pays users for",Hardware,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_an-annotated-archive-of-s-1-filings,"An annotated archive of S-1 filings,",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_microvm-daemon-deploy-any-docker-image,"MicroVM daemon, deploy any Docker image",AI Products,show_hn,2026,1,1,0,0,0,0,0,0,0,2,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_awe-radio-free-24-7-internet-radio,"Awe Radio, free 24/7 internet radio",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_nodeakt,NodeAkt,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_substack-and-x-and-reddit-and,Substack and X and Reddit and,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_darwin-vm,Darwin-VM,Hardware,show_hn,2026,0,0,0,2,1,1,0,2,2,4,0.0,1.0,0.0,2.0,D: 信号稀疏
+recent_500-000-aol-instant-messenger-buddy-icons,"500,000+ AOL Instant Messenger Buddy Icons",AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sqlite-diff-log,SQLite-diff-log,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a2acast,A2acast,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_adriselab,AdRiseLab,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_claude-code-skills,Claude Code Skills,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_scrinly,Scrinly,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kosh,Kosh,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_restore-real-urls-in-google-search,Restore real URLs in Google Search,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kvist,Kvist,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_passively-earn-btc-sol-anthropic-for-using-claude,Passively Earn BTC/Sol/Anthropic for Using Claude,Marketplace / Platform Products,show_hn,2026,0,0,0,2,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_porchweather,PorchWeather,Hardware,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_helm-valuetrace,Helm ValueTrace,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_organize-chatgpt-and-claude-chats-never,Organize ChatGPT and Claude chats. Never,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_consequence-gate,Consequence Gate,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cursor-buddy-get-archived-cursor-chats,"Cursor Buddy, get archived Cursor chats",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_dipstick-alerts,Dipstick Alerts,AI Products,show_hn,2026,1,0,0,1,2,1,1,1,0,4,0.0,2.0,0.0,0.0,D: 信号稀疏
+recent_conduct-open-source-guardrails-for-llm-and,"Conduct, open-source guardrails for LLM and",AI Products,show_hn,2026,0,0,0,1,1,1,0,2,1,2,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_sesame,Sesame,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_ios-app-for-learning-any-song,iOS app for learning any song,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_alst,ALST,SaaS / Software,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_use-fomo-to-3x-your-sales,Use FOMO to 3x your sales,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_boop,Boop,Hardware,show_hn,2026,0,0,0,1,1,0,0,0,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_hi-agent,Hi agent,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_nexora,Nexora,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_colrows,Colrows,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-shipcheck,AI Shipcheck,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_project-scorpions,Project Scorpions,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agentify-chat,Agentify Chat,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agentctl,Agentctl,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_splatit-self-hosted-game-servers-for-splatoon,SplatIt. Self-hosted game servers for Splatoon,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_blast,Blast,B2B Services,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-retirement-planner-in-one-html,A retirement planner in one HTML,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_watermarks-remover-clean-llm-watermarks-from,Watermarks Remover: Clean LLM watermarks from,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_contextswitch,ContextSwitch,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_repobeats,Repobeats,AI Products,show_hn,2026,0,1,0,2,1,1,0,2,1,4,0.0,1.0,1.0,1.0,D: 信号稀疏
+recent_the-million-dollar-homepage-but-it,"The Million Dollar Homepage, but it",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_the-ai-agent-that-works-inside,The AI agent that works inside,AI Products,show_hn,2026,46,23,22,62,38,36,0,63,38,199,0.478,0.826,0.5,1.056,A: 行为链较完整
+recent_it-was-never-you,It Was Never You,AI Products,show_hn,2026,8298,2661,2407,8317,8088,5955,1228,10700,6737,36763,0.29,0.975,0.321,1.131,A: 行为链较完整
+recent_featureflags-app,FeatureFlags.app,Developer Tools,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_open-tool-for-testing-your-ai,Open tool for testing your AI,AI Products,show_hn,2026,17,7,5,18,14,11,0,20,9,58,0.294,0.824,0.412,0.818,A: 行为链较完整
+recent_urml,URML,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_adding-and-extending-integer-support-for,Adding and Extending Integer Support for,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_i-read-648-banks-exchange-boards,I read 648 banks' exchange boards,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_openlayer,OpenLayer,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cleanmysheet,CleanMySheet,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_get-agents-to-do-what-i,Get agents to do what I,AI Products,show_hn,2026,28,9,5,25,21,20,0,29,18,98,0.179,0.75,0.321,0.9,A: 行为链较完整
+recent_outrip,OutRip,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_satroot,Satroot,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ramanujan-computing-use-idle-computation-to-run,Ramanujan-computing: use idle computation to run,Hardware,show_hn,2026,1,1,0,3,1,1,0,2,1,6,0.0,1.0,1.0,1.0,D: 信号稀疏
+recent_marktwin,Marktwin,AI Products,show_hn,2026,1,1,0,0,0,0,0,0,0,2,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_fastpotify,Fastpotify,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ok-or-ko-the-pubg-of,OK or KO the PUBG of,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_openinstinct,OpenInstinct,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_thorotest-is-a-source-available-test-management,ThoroTest is a source-available test management,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_doormouse,Doormouse,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_millnew-ai,Millnew AI,Hardware,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_streamcore,StreamCore,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_infercrane,InferCrane,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_argus-open-source-ai-agents-for-testing,"Argus, open-source AI agents for testing",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_unknown-project,Unknown Project,AI Products,show_hn,2026,160,52,45,168,133,114,13,183,117,631,0.281,0.831,0.325,1.026,A: 行为链较完整
+recent_i-built-a-mac-app-that,I built a Mac app that,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agentconnect-shared-agents-with-separate-permissions,"AgentConnect, shared agents with separate permissions",AI Products,show_hn,2026,0,0,0,0,0,0,0,2,2,2,0.0,0.0,0.0,2.0,D: 信号稀疏
+recent_grith,Grith,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_coordination-layer-for-coding-agents,Coordination Layer for Coding Agents,AI Products,show_hn,2026,13,6,5,14,9,7,1,11,8,55,0.385,0.692,0.462,1.143,A: 行为链较完整
+recent_dmx,dmx,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_goodsaas,GoodSaaS,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_nfc-energy-harvesting-pcb-business-card-with,NFC Energy-Harvesting PCB Business Card with,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_skyroads,SkyRoads,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_free-domain-intelligence-engine,Free Domain Intelligence Engine,AI Products,show_hn,2026,1,1,0,2,2,2,0,2,0,4,0.0,2.0,1.0,0.0,D: 信号稀疏
+recent_onlybots-chat,OnlyBots.chat,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cdai-cli,cdai cli,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_text-editor-and-light-weight-publishing-platform,Text editor and light-weight publishing platform,Marketplace / Platform Products,show_hn,2026,0,1,0,2,1,1,0,1,1,4,0.0,1.0,1.0,1.0,D: 信号稀疏
+recent_llm-inference-calculator,LLM Inference Calculator,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_forth-mcp,Forth MCP,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-tool-showing-how,I built a tool showing how,AI Products,show_hn,2026,3,1,0,2,3,2,0,2,0,8,0.0,1.0,0.333,0.0,D: 信号稀疏
+recent_talos,Talos,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sudoreport,SudoReport,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_loofah-meeting-transcription-into-a-local,"Loofah, meeting transcription into a local",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_texttile-a-multiplayer-blog-engine-for,"Texttile, a multiplayer blog engine for",AI Products,show_hn,2026,0,0,0,1,0,0,0,1,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_wolfpack,Wolfpack,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sitemap-site,Sitemap.site,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pay-to-rank-leaderboards-for-creators-and-products,Pay-to-rank leaderboards for creators and products,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_html5-port-of-civilization-2-mge,HTML5 port of Civilization 2: MGE,AI Products,show_hn,2026,0,0,0,2,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_pitchbin,PitchBin,AI Products,show_hn,2026,0,0,1,0,0,0,0,0,0,1,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-made-a-manga-critique-site,I made a manga critique site,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_subsmith,SubSmith,AI Products,show_hn,2026,0,0,1,2,0,0,0,0,0,3,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_jack-the-snipper,Jack the Snipper,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tavi,Tavi,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_live-football-data-clear-patterns-smart,Live football data. Clear patterns. Smart,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mcp-server-that-drives-the-browser,MCP server that drives the browser,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_public-mcp-for-greek-price-comparison,Public MCP for Greek price comparison,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_less-paper,Less Paper,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_puppetflow-a-free-browser-automation-platform,Puppetflow a free browser automation platform,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_agentparty,AgentParty,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rosebed,Rosebed,Developer Tools,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_18-words-zanagrams-and-sunflowers-are,"18 Words, Zanagrams and Sunflowers Are",AI Products,show_hn,2026,0,0,0,0,1,0,1,0,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_rafter,Rafter,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-source-agent-harness-with-team-collaboration,Open-source agent harness with team collaboration,AI Products,show_hn,2026,3,0,2,2,0,0,0,0,0,8,0.667,0.0,0.0,0.0,D: 信号稀疏
+recent_repoflock,RepoFlock,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-journal-app-with-no-network,A journal app with no network,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_public-desktop,Public Desktop,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_scheduled-claude-code-agents-that-cost,Scheduled Claude Code agents that cost,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-compressed-videos-by-upto-78x,I compressed videos by upto 78x,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_grid-data-explorer,Grid Data Explorer,SaaS / Software,show_hn,2026,17,2,3,13,10,9,0,15,10,48,0.176,0.588,0.118,1.111,A: 行为链较完整
+recent_memo,Memo,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_use-spot-instance-fearlessly,Use Spot Instance Fearlessly,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_beckon-distinct-sounds-for-what-your,"Beckon, distinct sounds for what your",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-game-playtester,AI Game Playtester,AI Products,show_hn,2026,5,0,2,4,3,3,0,5,5,16,0.4,0.6,0.0,1.667,A: 行为链较完整
+recent_gaussian-blue-noise-for-image-stippling,Gaussian Blue Noise for image stippling,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kiip-study,KIIP Study,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_fnscribe,FnScribe,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_free-tool-that-turns-market-research,Free tool that turns market research,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_classroom-timer,Classroom Timer,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_teaching-a-neural-net-to-fight,Teaching a Neural Net to Fight,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mdtensor,Mdtensor,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_my-fast-tui-finnish-english-dictionary-is,My fast TUI Finnish-English dictionary is,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_understudy-scenario-testing-for-ai-agents,Understudy: Scenario Testing for AI Agents,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-focused-workspace-for-creating-short,A focused workspace for creating short,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-m-building-tools-for-noduspall-before,I'm building tools for Noduspall before,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_indexflow,IndexFlow,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_chessrabbit,ChessRabbit,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_node-js-back-end-library-is-1-0,Node.js back end library is 1.0,AI Products,show_hn,2026,1,1,0,0,0,0,0,0,1,2,0.0,0.0,1.0,1.0,D: 信号稀疏
+recent_asking,Asking,AI Products,show_hn,2026,1,0,0,1,1,1,0,2,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_alphie,Alphie,AI Products,show_hn,2026,1,0,1,0,0,0,0,0,0,2,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-public-feed-of-website-changes,A public feed of website changes,SaaS / Software,show_hn,2026,16,2,2,22,21,19,0,28,13,63,0.125,1.312,0.125,0.684,A: 行为链较完整
+recent_leadcode,Leadcode,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pi-black,Pi-Black,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_lightweight-reimplementation-of-yacy-peer-as,Lightweight reimplementation of YaCy peer as,B2B Services,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_marsbase,Marsbase,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_risk-of-train,Risk of Train,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_karaokeo,Karaokeo,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_caravan-a-flexible-typescript-first-logger-for,"Caravan, a flexible TypeScript-first logger for",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agentmafia,AgentMafia,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_l0-l1-l2-agents-leases-gates-audits-git-worktree,"L0/L1/L2 agents, leases, gates, audits, Git-worktree",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pepakura-set-a-matching-game-for,"Pepakura Set, a matching game for",Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_taste-library-a-spiritual-successor-to,"Taste Library, a Spiritual Successor to",Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_beating-gpt5-5-xhigh-for-coding-agent-security,Beating GPT5.5-xhigh for Coding agent security,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_make-apps-in-seconds-inside-of,Make apps in seconds inside of,SaaS / Software,show_hn,2026,1,0,0,1,0,0,0,0,0,3,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_opentie-and-openxwa-modern-ports-of,"OpenTIE and OpenXWA, Modern Ports of",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_t2-linux-touch-id-poc,T2 Linux Touch ID PoC,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-put-20-ad-slots-under,I put 20 ad slots under,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_artgram,ArtGram,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_iq-routing,IQ Routing,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_per-diem-a-daily-dice-game,"Per Diem, a daily dice game",AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_webtoolio-dev-tools-that-run-entirely,Webtoolio dev tools that run entirely,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-shop-that-makes-it-hard,A shop that makes it hard,SaaS / Software,show_hn,2026,21,8,28,24,43,15,12,42,20,142,1.333,2.048,0.381,1.333,A: 行为链较完整
+recent_we-built-open-openrouter-that-turns,We built open OpenRouter that turns,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_a-windows-98-retro-voting-tug-o-war,A Windows 98 retro voting tug-O-war,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-70x-faster-and-5x-smaller,A 70x faster and 5x smaller,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_get-your-app-online-in-seconds,Get your app online in seconds,SaaS / Software,show_hn,2026,18,6,7,20,14,12,0,20,12,77,0.389,0.778,0.333,1.0,A: 行为链较完整
+recent_svgrid,SvGrid,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_public-threads-that-branch-when-you,Public threads that branch when you,SaaS / Software,show_hn,2026,1,1,0,0,0,0,0,0,0,3,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_qbix-webserver-1-0-is-able-to,"Qbix webserver 1.0, is able to",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_an-open-t2i-benchmark-with-all,An open T2I benchmark with all,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_black-friday-is-in-91-days,Black Friday is in 91 days,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_context-aware-header-audit-built-for-learning,"Context-Aware Header Audit; Built for Learning,",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_listen-to-hacker-news-and-create,Listen to Hacker News and Create,B2B Services,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_discover-and-share-ai-prompts-and,Discover and share AI prompts and,AI Products,show_hn,2026,1,0,0,3,1,1,0,2,1,5,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_we-built-a-multiplayer-pixel-art,We built a multiplayer pixel art,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_go-binsync,go-binsync,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_untapped-potential-of-fixed-size-buffers,Untapped potential of fixed-size buffers,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-xvisibility-lol-to-get-more,I built xvisibility.lol to get more,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agentcloud,AgentCloud,AI Products,show_hn,2026,0,0,0,2,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_openrouter-provider-economics,OpenRouter Provider Economics,AI Products,show_hn,2026,2,0,7,5,6,5,1,8,6,23,3.5,3.0,0.0,1.2,A: 行为链较完整
+recent_apronagents,Apronagents,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_lumiko,Lumiko,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_telem,Telem,AI Products,show_hn,2026,1,0,0,1,0,0,0,0,0,3,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_openwand,OpenWand,AI Products,show_hn,2026,0,2,0,0,0,0,0,0,1,3,0.0,0.0,2.0,1.0,D: 信号稀疏
+recent_scrub-every-single-mention-of-agents,Scrub Every Single Mention of Agents,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_husk-a-local-first-open-source-security-scanner,"Husk a Local-first, open-source, security scanner",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_easily-deploy-vibecode-apps-through-mcp,Easily deploy vibecode apps through MCP,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_z-minimal-agentic-harness-for-engineers,"Z, minimal agentic harness for engineers",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_memorial-for-athena-strand-she-will,Memorial for Athena Strand. She will,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_collaborate-with-your-team-on-claude,Collaborate with your team on Claude,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_interactive-sdp-explainer-for-webrtc-sip,"Interactive SDP Explainer for WebRTC, Sip,",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_music-visualizer-new-milkdrop-engine-and-various,Music Visualizer|New MilkDrop engine and various,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_voronoi-go,Voronoi Go,AI Products,show_hn,2026,4,1,5,3,3,2,0,4,2,19,1.25,0.75,0.25,1.0,A: 行为链较完整
+recent_sparrow-2,Sparrow-2,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_yet-another-minimal-and-lightweight-terminal,Yet another minimal and lightweight terminal,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-private-radio-station-for-issue,A private radio station for issue,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_dropping-synthid-from-188-192-to-0-192,Dropping SynthID from 188/192 to 0/192,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hn-radio,HN Radio,SaaS / Software,show_hn,2026,274,110,54,224,197,161,20,260,146,843,0.197,0.719,0.401,0.907,A: 行为链较完整
+recent_an-apple-passwords-browser-extension-on,An Apple Passwords browser extension on,AI Products,show_hn,2026,2,0,0,1,2,1,0,3,2,7,0.0,1.0,0.0,2.0,D: 信号稀疏
+recent_aitells-a-vale-style-package-for,"AiTells, a Vale style package for",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_see-fiber-breaks-linked-to-a,See fiber breaks linked to a,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_my-claude-quota-ran-out-in,My Claude quota ran out in,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_asograde,ASOGrade,SaaS / Software,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_ideakache,IdeaKache,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_meridian-ph-1-a-better-way-to-recognize,Meridian(PH#1) A better way to recognize,Developer Tools,show_hn,2026,1,0,0,0,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pwnpad,PwnPad,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_watches-user-sessions-finds-bugs-that,"Watches user sessions, finds bugs that",AI Products,show_hn,2026,0,0,0,1,0,0,0,0,0,2,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-site-to-share,I built a site to share,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_warp,Warp,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_kinopipe,KinoPipe,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_atlas,Atlas,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_feisty-duck-s-cryptography-and-security-news,Feisty Duck's Cryptography and Security News,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_backprompter,Backprompter,AI Products,show_hn,2026,1,0,0,0,0,0,0,1,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_a-virtual-race-car-that-drives,A virtual race car that drives,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kitewing-marketing-site-inspired-by-braun,"Kitewing marketing site, inspired by Braun",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_relay-tetris,Relay Tetris,SaaS / Software,show_hn,2026,1,0,0,0,1,0,0,1,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_thunderphone-v2,ThunderPhone v2,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_git-for-designers,Git for Designers,SaaS / Software,show_hn,2026,97,27,39,189,157,138,3,257,178,559,0.402,1.619,0.278,1.29,A: 行为链较完整
+recent_revenue-agents-that-monitor-churn-upsell,"Revenue Agents that monitor churn, upsell,",AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_turn-every-pr-into-animated-architecture,Turn every PR into animated architecture,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_termdrop,TermDrop,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kupendo,Kupendo,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_banana-peel,Banana Peel,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_proval,Proval,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_baiseball-org,bAIseball.org,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_spore,Spore,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_all-my-mail-accounts-in-one,All my mail accounts in one,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_bhowra-ink,Bhowra Ink,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_turn-ad-hoc-subagents-into-durable-accountable,"Turn ad-hoc subagents into durable, accountable",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_forkbench,Forkbench,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_restoredrill,Restoredrill,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vertex-your-personal-archiver-and-annotator,"Vertex, your personal archiver and annotator",AI Products,show_hn,2026,1,0,1,0,0,0,0,1,1,4,1.0,0.0,0.0,1.0,D: 信号稀疏
+recent_one-source-of-truth-for-agent,One source of truth for agent,AI Products,show_hn,2026,1,1,0,4,2,2,0,2,2,11,0.0,2.0,1.0,1.0,D: 信号稀疏
+recent_knowl,Knowl,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_algolassi,Algolassi,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_1presence,1Presence,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_nanointerpret,Nanointerpret,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pause,Pause,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_the-lightweight-claude-and-lmstudio-and,"The lightweight Claude and LMStudio, and",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_concord,Concord,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_realdiff,RealDiff,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_owntime,OwnTime,Hardware,show_hn,2026,1,0,0,0,0,0,0,1,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_knotq,KnotQ,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_birthdayvideoai,BirthdayVideoAI,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mp4-to-transcript,MP4 to Transcript,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_diff-glance,Diff Glance,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_filiz,Filiz,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sumday,Sumday,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_derive,Derive,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_slaunt,Slaunt,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_baldur,Baldur,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-session-the-open-source-cloud-agent-orchestrator,"Open Session, the open-source cloud agent-orchestrator",AI Products,show_hn,2026,0,0,0,1,1,1,0,2,2,3,0.0,1.0,0.0,2.0,D: 信号稀疏
+recent_ongslist,OngsList,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-engineer-course-where-every-lesson,AI engineer course where every lesson,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_trading-experiments-5-years-all-reproducible,"Trading experiments, 5 years, all reproducible.",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_baihais,BAIhAIs,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_civicbinder,CivicBinder,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_adbcbridge,adbcBridge,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_gluestack,Gluestack,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_driftscript,DriftScript,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_claude-code-sessions-next-to-the,Claude Code sessions next to the,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_remotevibe,Remotevibe,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ticket-fairy-cli-for-event-ticketing,Ticket Fairy CLI for event ticketing,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_arka-norn,Arka.norn,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-cli-to-fetch-invoices-in,A CLI to fetch invoices in,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_20-000-words,"20,000 words",SaaS / Software,show_hn,2026,2,0,1,1,0,0,0,1,1,4,0.5,0.0,0.0,1.0,D: 信号稀疏
+recent_learn-13k-words-of-james-joyce-s,Learn 13k words of James Joyce's,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_drag-and-drop-seating-charts-for-weddings-and,Drag-and-drop seating charts for weddings and,AI Products,show_hn,2026,0,0,1,1,1,1,0,1,0,2,1.0,1.0,0.0,0.0,D: 信号稀疏
+recent_ai-linkedin-message-personalisation,AI LinkedIn Message Personalisation,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_nexdm,NexDM,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_running-linux-gui-apps-on-android,Running Linux GUI Apps on Android,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-67-point-scorer-for-engineers-considering,A 67-point scorer for engineers considering,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_the-load-bearing-vocabulary-of-claude,The load-bearing vocabulary of Claude,SaaS / Software,show_hn,2026,0,0,0,3,3,3,0,3,0,3,0.0,3.0,0.0,0.0,D: 信号稀疏
+recent_reconstruct-distributed-llm-training-traces,Reconstruct distributed LLM training traces,AI Products,show_hn,2026,1,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_i-built-one-interface-for-generating,I built one interface for generating,AI Products,show_hn,2026,7,2,4,3,3,2,0,5,4,21,0.571,0.429,0.286,2.0,A: 行为链较完整
+recent_i-built-an-interactive-astrocartography-map,I built an interactive astrocartography map,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,1,2,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_it-s-always-been-about-size-contests,It's always been about size contests,SaaS / Software,show_hn,2026,11,0,3,11,9,6,1,12,10,44,0.273,0.818,0.0,1.667,A: 行为链较完整
+recent_i-built-an-agent-first-productivity-bridge,I built an agent-first productivity bridge,AI Products,show_hn,2026,1,0,0,1,1,1,0,2,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_tcp-vs-udp-speed-test,TCP vs. UDP speed test,SaaS / Software,show_hn,2026,1,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_not-the-gtc-2026-keynote-video,Not the GTC 2026 Keynote [video],SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-social-commentary-on-the-attention,A social commentary on the attention,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_clink-an-embedded-first-c-23-stream-processing,"Clink, an embedded-first C++23 stream processing",Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_forgot-the-command-stay-in-the,Forgot the Command? Stay in the,SaaS / Software,show_hn,2026,2,2,0,1,0,0,0,0,0,3,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_contextual,Contextual,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_trace-where-a-link-goes-before,Trace where a link goes before,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_text-editor-that-does-it-all,Text editor that does it all,AI Products,show_hn,2026,113,77,30,131,123,104,5,167,82,458,0.265,1.088,0.681,0.788,A: 行为链较完整
+recent_wallps-set-different-live-wallpapers-for,Wallps: set different live wallpapers for,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_yass,YASS,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_historical-daily-weather-for-any-us,Historical daily weather for any US,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_simple-fax-sending-website,Simple Fax Sending Website,SaaS / Software,show_hn,2026,0,0,1,0,0,0,0,0,0,1,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mlsentinel,MLSentinel,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_stellamap-live-3d-map-of-the,"Stellamap, live 3D map of the",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-chat-app-build-specifically-for,AI chat app build specifically for,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-designed-a-3d-printed-laminar-flow,I Designed a 3D-Printed Laminar Flow,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_zetken-ci-cd-studio,Zetken CI/CD Studio,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_small-oss-experiment-to-re-create-the,Small OSS experiment to re-create the,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_critter-tui-for-reviewing-github-prs,Critter TUI for reviewing GitHub PRs,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sift,Sift,Marketplace / Platform Products,show_hn,2026,0,0,0,0,1,0,0,1,1,2,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_check-if-your-otp-verification-sms-or,Check if your OTP/verification SMS or,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_wattage,Wattage,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_clouddm,CloudDM,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ask-a-monk,Ask a Monk,SaaS / Software,show_hn,2026,16,5,7,17,10,10,0,13,10,61,0.438,0.625,0.312,1.0,A: 行为链较完整
+recent_apache-datafusion-support-for-duckdb-s-ducklake,Apache DataFusion Support for DuckDB's DuckLake,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_browser-automation-with-no-chromedriver-and,Browser automation with no chromedriver and,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_spc-world,SPC World,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agenteam,Agenteam,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tokwhois,Tokwhois,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_abbs,ABBS,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kmf-leaderboard,KMF Leaderboard,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-shop-owner-simulator-and-visual-novel,A shop-owner simulator and visual novel,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tally,Tally,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_whisperbar-trying-to-fix-both-reading,WhisperBar Trying to Fix Both Reading,AI Products,show_hn,2026,0,0,1,1,0,0,0,0,0,2,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_yc-hack-winner,YC Hack Winner,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_herdr-plugin-to-annotate-anything-in,Herdr plugin to annotate anything in,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agent-hop,Agent-hop,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_visualize-whether-you-run-too-many,Visualize whether you run too many,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_we-built-a-live-feed-for,We built a live feed for,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tumble-a-dice-rolling-puzzle-game,Tumble: A dice-rolling puzzle game,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rook,Rook,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_fab-friends-a-crowdfunding-site-for,Fab Friends a crowdfunding site for,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_which-llms-have-the-best-sense,Which LLMs have the best sense,AI Products,show_hn,2026,2,1,0,0,1,0,1,0,0,4,0.0,0.5,0.5,0.0,D: 信号稀疏
+recent_edn,EDN,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mdpreview,Mdpreview,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_every-push-up-becomes-an-attack-in,Every push-up becomes an attack in,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_we-built-the-smallest-dual-band-aircraft,We built the smallest dual-band aircraft,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_devx,Devx,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_netsour-the-modular-packet-analyzer-tui,"NetSour, the modular packet analyzer TUI",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_infra-lang,Infra Lang,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_find-perth-jobs-hire-local-talent,Find Perth jobs. Hire local talent,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ten-cubed,Ten_cubed,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_convolens,Convolens,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_use-glm-5-3-in-cursor-today-via,Use GLM-5.3 in Cursor today via,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_collete-01,Collete-01,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_notificator,Notificator,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_de-spark-migrate-a-github-spark-export,"De-Spark, migrate a GitHub Spark export",Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_kudu,Kudu,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_nodusfall-wiki,Nodusfall Wiki,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-scientist-builds-an-open-source-codex,AI scientist builds an open-source Codex,AI Products,show_hn,2026,0,1,0,0,0,0,0,0,0,2,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_chroncal,Chroncal,AI Products,show_hn,2026,1,0,0,1,1,1,0,2,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_railo,Railo,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_i-made-a-retirement-simulator-125,I made a retirement simulator: 125,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_timber-ios-and-timber-tabs,Timber (iOS) and Timber Tabs,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_caniuse-for-spreadsheet-functions-every-libreoffice,"Caniuse for spreadsheet functions, every LibreOffice",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-get-25-deeply-researched-ideas,I get 25 deeply researched ideas,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_automatically-hide-flamebait-shallow-political-comments-on-hn,Automatically hide flamebait/shallow/political comments on HN,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rudder,Rudder,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ssh-session-monitor,SSH Session Monitor,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_yelp-for-ai-models-products,Yelp for AI Models/Products,AI Products,show_hn,2026,361,66,83,203,180,164,6,301,189,1004,0.23,0.499,0.183,1.152,A: 行为链较完整
+recent_finops-ai,FinOps-AI,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_build-your-own-theme-park,Build your own theme park,AI Products,show_hn,2026,23,8,13,27,32,20,5,38,17,113,0.565,1.391,0.348,0.85,A: 行为链较完整
+recent_eink-optimized-manga-with-kindle-comic,eInk Optimized Manga with Kindle Comic,Hardware,show_hn,2026,2,0,0,2,2,2,0,4,2,6,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_family-sync-with-no-server,Family sync with no server,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_airtxt,airtxt,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_have-you-heard-discover-great-software,Have You Heard? Discover great software,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_llmcanvas-chat-tree-based-llm-chat-on-an,Llmcanvas.chat Tree-based LLM chat on an,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_flex-your-website-dr-in-1,Flex your website DR in $1,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_collections-a-chrome-side-panel-to,"Collections, a Chrome side panel to",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_usecos,UseCOS,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_radian-ui-a-copy-paste-react-components,Radian UI a copy-paste React components,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ancestree,Ancestree,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_silobrief,SiloBrief,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-lightweight-stateless-database-for-agent,"A lightweight, stateless database for agent",AI Products,show_hn,2026,0,0,0,2,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_min,Min,AI Products,show_hn,2026,4,0,0,2,2,1,0,3,2,9,0.0,0.5,0.0,2.0,D: 信号稀疏
+recent_i-built-a-tool-that-finds,I built a tool that finds,AI Products,show_hn,2026,5,0,2,2,2,2,0,3,2,12,0.4,0.4,0.0,1.0,A: 行为链较完整
+recent_pelica,Pelica,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_buy-a-vpn-pass-with-an,Buy a VPN pass with an,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_highball,Highball,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_texlite,TexLite,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pairbook,PairBook,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_bumbletap,BumbleTap,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_splitright,Splitright,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_bury-lol,Bury.lol,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_neoswarm,Neoswarm,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_tabu-nsfw-image-and-video-api,"Tabu, NSFW image and video API",AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_getting-more-users-for-my-projects,Getting more users for my projects,SaaS / Software,show_hn,2026,185,68,52,200,169,145,13,261,191,786,0.281,0.914,0.368,1.317,A: 行为链较完整
+recent_shelf-protocol,Shelf Protocol,Hardware,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_how-much-of-hacker-news-is,How much of Hacker News is,AI Products,show_hn,2026,47,13,10,40,48,37,6,60,40,183,0.213,1.021,0.277,1.081,A: 行为链较完整
+recent_agentmachinist-issue-to-reviewed-pr-with,"AgentMachinist, issue to reviewed PR with",AI Products,show_hn,2026,1,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_revealed,Revealed,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-tui-for-inspecting-snowflake-tasks,A TUI for Inspecting Snowflake Tasks,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_prompt-builder,Prompt Builder,AI Products,show_hn,2026,17,7,4,25,21,21,0,32,12,66,0.235,1.235,0.412,0.571,A: 行为链较完整
+recent_a-robot-football-league-where-frontier,A robot football league where frontier,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_otter-experimental-multi-threaded-javascript-runtime-written,Otter: experimental multi-threaded JavaScript runtime written,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cuemap,CueMap,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_free-economic-nexus-checker-for-online,Free economic nexus checker for online,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ebm-lens-searches-biomedical-papers-ranks,"EBM Lens, searches biomedical papers, ranks",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-layer-for-robotics-dataset-quality,A Layer for robotics dataset quality,Hardware,show_hn,2026,3,0,2,3,3,2,0,4,1,13,0.667,1.0,0.0,0.5,A: 行为链较完整
+recent_a-time-capsule-where-the-only,A time capsule where the only,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_fake-bpy-module,fake-bpy-module,AI Products,show_hn,2026,1,1,0,1,0,0,0,1,1,3,0.0,0.0,1.0,1.0,D: 信号稀疏
+recent_kuma-voice,Kuma Voice,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_witstep,Witstep,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_remap,Remap,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_chapter-zero,Chapter Zero,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_music-puzzle-game-on-steroids,Music Puzzle Game on Steroids,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_modelmri,ModelMRI,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_web-game-player-vs-computer,"Web Game ""Player vs. Computer""",AI Products,show_hn,2026,3,3,3,6,3,3,0,3,0,9,1.0,1.0,1.0,0.0,A: 行为链较完整
+recent_dependency-graph-and-impact-analysis-for,Dependency graph and impact analysis for,Developer Tools,show_hn,2026,1,1,0,1,1,1,0,2,1,4,0.0,1.0,1.0,1.0,D: 信号稀疏
+recent_toned-an-iphone-darkroom-app-that,"Toned, an iPhone darkroom app that",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-single-homepage-link-you-can,A single homepage link you can,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_routebase,Routebase,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_zeitgeist-game,Zeitgeist Game,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_dblift,DBLift,AI Products,show_hn,2026,0,0,0,1,1,1,0,2,1,2,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_typebase,Typebase,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_a-local-tool-that-logs-every,A local tool that logs every,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vyukov-mpsc-queue-in-c-20-with,Vyukov MPSC queue in C++20 with,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_code-stitcher,Code Stitcher,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_backpressure-systems-adds-mcp-and-cli,backpressure.systems adds MCP and CLI,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-fear-my-tasks,I fear my tasks,Developer Tools,show_hn,2026,523,171,116,642,564,497,30,716,424,2163,0.222,1.078,0.327,0.853,A: 行为链较完整
+recent_exit-planning-guidance-for-private-company,Exit planning guidance for private company,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-daily-word-game-where-you,A daily word game where you,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_firmament-is-the-limit,Firmament is the Limit,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_storemock-a-free-in-browser-tool-to,"StoreMock, a free, in-browser tool to",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_wfy24-weather-widget-with-hyper-local-forecasting,WFY24 weather widget with hyper-local forecasting,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_banking-access-index,Banking Access Index,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_the-great-mountains-and-the-weather,The Great Mountains and the Weather,AI Products,show_hn,2026,0,0,0,0,1,0,1,0,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_buslens,Buslens,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_octomind-routines,Octomind Routines,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hostflip,Hostflip,AI Products,show_hn,2026,0,1,0,0,1,0,0,1,1,4,0.0,1.0,1.0,1.0,D: 信号稀疏
+recent_postrank,PostRank,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_spinifex,Spinifex,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_scribble-write-on-your-desktop-with-any,"Scribble/write on your desktop, with any",AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_launched-free-browser-agent,Launched free browser agent,AI Products,show_hn,2026,2,3,3,4,1,1,0,2,3,16,1.5,0.5,1.5,3.0,B: 有重新选择和商业意图
+recent_multiplayer-laser-simulator,Multiplayer Laser Simulator,SaaS / Software,show_hn,2026,3,1,0,0,1,0,1,1,2,8,0.0,0.333,0.333,2.0,D: 信号稀疏
+recent_llm-powered-webapp-to-build-llm-powered-webapps,LLM-powered webapp to build LLM-powered webapps,AI Products,show_hn,2026,0,0,0,1,1,1,0,2,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_propose-and-dual-control-for-dns-changes,Propose and Dual-Control for DNS Changes,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_openspender-gives-your-agents-wallets,Openspender gives your agents wallets,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_masker,Masker,Hardware,show_hn,2026,4,3,0,3,3,3,0,3,1,13,0.0,0.75,0.75,0.333,D: 信号稀疏
+recent_handwrought,HandWrought,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hands-on-docker-security-labs-from-cis,"Hands-on Docker security labs, from CIS",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_magecdn,MageCDN,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-proxy-that-makes-forgejo-speak,A proxy that makes Forgejo speak,AI Products,show_hn,2026,1,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_implementation-of-kimi-k3-in-pytorch,Implementation of Kimi K3 in PyTorch,SaaS / Software,show_hn,2026,0,0,0,1,2,1,0,1,0,2,0.0,2.0,0.0,0.0,D: 信号稀疏
+recent_weavit-ui,Weavit UI,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_building-a-marketplace-where-you-post,Building a marketplace where you post,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_declaude,Declaude,AI Products,show_hn,2026,2711,1094,542,569,843,90,394,977,1218,7180,0.2,0.311,0.404,13.533,B: 有重新选择和商业意图
+recent_using-golang-to-speed-up-monte,Using Golang to Speed Up Monte,SaaS / Software,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_a-batch-settlement-layer-for-tokenized,A batch settlement layer for tokenized,Hardware,show_hn,2026,0,0,1,1,0,0,0,1,1,2,1.0,0.0,0.0,1.0,D: 信号稀疏
+recent_hacker-news-keeps-flagging-my-startup,Hacker News keeps flagging my startup,Marketplace / Platform Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_reachpad-cli,Reachpad CLI,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_agent-purge,Agent Purge,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_captureagent,CaptureAgent,AI Products,show_hn,2026,1,0,1,0,0,0,0,1,1,3,1.0,0.0,0.0,1.0,D: 信号稀疏
+recent_agent-skill-to-create-html-docs,Agent skill to create HTML docs,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_highrise,Highrise,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_use-fs,Use-Fs,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_slash-tokens,Slash-tokens,AI Products,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_game-to-see-if-you-re-over-under-confident,Game to see if you're over-/under-confident,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_invoker-game,Invoker Game,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_texbrain-a-latex-editor-that-runs,"TeXbrain, a LaTeX editor that runs",AI Products,show_hn,2026,0,0,0,1,1,0,0,1,1,3,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_1-bit-pixel-pixel-art-editor,"1 Bit Pixel, pixel art editor",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_flinch,Flinch,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_graphlib-3-1,Graphlib 3.1,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_codex-claude-code-harness-for,Codex / Claude Code harness for,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ecdeos,Ecdeos,Hardware,show_hn,2026,0,0,0,1,1,1,0,2,1,2,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_ducky-media-for-macos-private-cloud,"Ducky Media for macOS, private cloud",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-spatial-graph-alternative,I built a spatial graph alternative,SaaS / Software,show_hn,2026,0,1,0,0,0,0,0,0,0,1,0.0,0.0,1.0,0.0,D: 信号稀疏
+recent_feral,Feral,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sillage-a-4-mb-memory-that,Sillage a 4 MB memory that,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_minimax-h3,MiniMax H3,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_oynix,Oynix,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-sourcing-monsterwriter-piece-by-piece,"Open sourcing MonsterWriter, piece by piece",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ai-seo-blog-driven-by-deep,AI SEO Blog driven by deep,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mulmoterminal,MulmoTerminal,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_cumetal,CuMetal,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_gateproof-offline-first-event-check-in-no-backend,"GateProof: offline-first event check-in, no backend,",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-missed-the-moving-blocks-so,"I missed the moving blocks, so",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_pocketcoded-py,PocketCoded Py,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_ifso,Ifso,Hardware,show_hn,2026,1,0,0,0,0,0,0,2,1,3,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_fetchmark,FetchMark,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_acurite-433mhz-sensor-to-weather-underground,Acurite 433MHz Sensor to Weather Underground,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_limitless-library,Limitless Library,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_wireshark-in-a-tui,Wireshark in a TUI,SaaS / Software,show_hn,2026,0,2,0,3,1,1,0,3,2,8,0.0,1.0,2.0,2.0,D: 信号稀疏
+recent_dribbling-the-ai-watermark-directly-in-prompt,Dribbling the AI Watermark Directly In-Prompt,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-designed-a-quantum-computer,I Designed a Quantum Computer,SaaS / Software,show_hn,2026,3,3,1,6,5,5,0,7,4,22,0.333,1.667,1.0,0.8,B: 有重新选择和商业意图
+recent_inferit,InferIt,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_built-an-on-device-dictation-agent-for,Built an on-device dictation agent for,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_shotsweep,ShotSweep,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_query-historical-data-with-time-travel,Query Historical Data with Time Travel,SaaS / Software,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_slab,Slab,Consumer Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_lightweight-system-monitor-for-linux-vps,Lightweight system monitor for Linux VPS,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-cybersecurity-challenge-for,I built a cybersecurity challenge for,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_typeclip,Typeclip,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_latticedb,LatticeDB,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_is-this-the-limit-of-what,Is this the limit of what,SaaS / Software,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_offer-discounts-and-get-more-visitors,Offer discounts and get more visitors,SaaS / Software,show_hn,2026,2,2,1,1,2,1,1,1,1,8,0.5,1.0,1.0,1.0,B: 有重新选择和商业意图
+recent_jeopardygithub-github-repo-to-jeopardy-game,JeopardyGithub: GitHub Repo to Jeopardy Game,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_canaster-is-a-canvas-based-visual,Canaster is a canvas based visual,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_searching-for-optimal-strategies-in-a,Searching for optimal strategies in a,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_provensql,Provensql,AI Products,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-portable-evidence-record-for-what,A portable evidence record for what,AI Products,show_hn,2026,2,1,1,0,0,0,0,0,1,6,0.5,0.0,0.5,1.0,D: 信号稀疏
+recent_canvasformusic,CanvasForMusic,AI Products,show_hn,2026,2,0,0,1,1,1,0,1,0,3,0.0,0.5,0.0,0.0,D: 信号稀疏
+recent_thegitai,TheGitAI,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_toolhub,ToolHub,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_fingerink,Fingerink,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_minuteboard,minuteboard,Hardware,show_hn,2026,0,0,0,0,0,0,0,1,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_save-claude-codex-grok-and-opencode,"Save Claude, codex, Grok and OpenCode",AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_orbit,Orbit,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_music-rhythm-reading-trainer,Music Rhythm Reading Trainer,AI Products,show_hn,2026,0,0,0,1,2,1,1,1,0,3,0.0,2.0,0.0,0.0,D: 信号稀疏
+recent_audit-ai-generated-code-with-go,Audit AI Generated Code with Go,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_voxeltv,VoxelTV,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_gibson-adk-and-zero-trust-runtime,Gibson ADK and Zero Trust Runtime,AI Products,show_hn,2026,1,0,1,1,0,0,0,0,0,2,1.0,0.0,0.0,0.0,D: 信号稀疏
+recent_bay,Bay,AI Products,show_hn,2026,1,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_mindspark,Mindspark,Developer Tools,show_hn,2026,80,68,40,74,79,51,13,156,90,364,0.5,0.988,0.85,1.765,A: 行为链较完整
+recent_cinderella,Cinderella,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_gpu-accelerated-pdal,GPU Accelerated PDAL,Developer Tools,show_hn,2026,0,0,0,0,1,0,0,1,1,2,0.0,1.0,0.0,1.0,D: 信号稀疏
+recent_i-made-a-raspberry-with-qwen,I made a Raspberry with Qwen,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_see-if-bloated-skills-are-degrading,See if bloated 'skills' are degrading,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_systemg-compares-to-other-process-managers,Systemg compares to other process managers,SaaS / Software,show_hn,2026,4,0,1,7,6,4,1,9,5,21,0.25,1.5,0.0,1.25,D: 信号稀疏
+recent_keenable,Keenable,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_hunch,Hunch,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_rust-analyzer-mcp-server-crate,Rust Analyzer MCP Server Crate,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-hash-chained-ledger-for-ai-reasoning,A hash-chained ledger for AI reasoning,AI Products,show_hn,2026,0,0,0,0,0,0,0,1,2,2,0.0,0.0,0.0,2.0,D: 信号稀疏
+recent_muro-3-0,Muro 3.0,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_skills-wiki,Skills Wiki,AI Products,show_hn,2026,0,0,0,2,1,0,0,1,0,4,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_rank21,Rank21,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-saas-without-knowing,I built a SaaS without knowing,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,2,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_reproduce-a-cross-company-ai-agent-handoff,"Reproduce a cross-company AI agent handoff,",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_strangercard,StrangerCard,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-daily-cartoon-contest-between-ai,A daily cartoon contest between AI,AI Products,show_hn,2026,2,1,0,0,0,0,0,0,0,2,0.0,0.0,0.5,0.0,D: 信号稀疏
+recent_local-dictation-and-meeting-notes-for,Local dictation and meeting notes for,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_make-a-hug,Make a Hug,Marketplace / Platform Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_xwm,XWM,Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_patches-cafe-an-offline-rectangle-covering-puzzle,"Patches.cafe, an offline rectangle-covering puzzle",AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-34-mb-search-engine-that,A 34 MB search engine that,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_red-team-llm-reasoning-and-agent-actions,Red-team LLM reasoning and agent actions,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-cemetery-for-failed-side-projects,A cemetery for failed side projects,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_turn-any-website-into-a-cli,Turn any website into a CLI,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_unbox-ai-visualize-your-ai-traces-like,Unbox-AI Visualize your AI traces like,AI Products,show_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_myprs,MyPRs,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_open-source-amdgcn-kernels-for-optimizing-llm,Open-source AMDGCN kernels for optimizing LLM,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-distributed-agent-runtime-with-swim,A distributed agent runtime with SWIM,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_mit-beer-game-free-in-the,MIT Beer Game free in the,SaaS / Software,show_hn,2026,3,2,3,6,2,2,0,2,2,17,1.0,0.667,0.667,1.0,A: 行为链较完整
+recent_zoetrope,Zoetrope,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_candlebar,Candlebar,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_crilio,Crilio,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_github-dashboard-aka-gitbiased,GitHub Dashboard aka GitBiased,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_privacy-first-screen-time-tracker-and-blocker,Privacy-First Screen-Time Tracker and Blocker,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_sktime-cli-a-command-line-tool-to,Sktime-CLI A command line tool to,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_pyxle,Pyxle,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_gitrank-lol,GitRank.lol,Developer Tools,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_wirespan-a-daily-power-grid-optimization,"Wirespan, a daily power grid optimization",Hardware,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_canned-web,Canned Web,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_turn-a-sandbox-into-an-mcp,Turn a Sandbox into an MCP,AI Products,show_hn,2026,4,1,1,4,3,3,0,7,3,15,0.25,0.75,0.25,1.0,D: 信号稀疏
+recent_apple-unified-logging-for-stdio-mcp,Apple Unified Logging for Stdio MCP,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_speech-generation,Speech Generation,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_a-skill-for-uploading-full-resolution-images,A skill for uploading full-resolution images,AI Products,show_hn,2026,0,0,0,1,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_readplusone,ReadPlusOne,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_diet-cola-themed-chrome-extension-to,Diet Cola themed Chrome Extension to,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_flying-toasters-reverse-engineered-1-1-in-the,"""Flying Toasters!"" reverse-engineered 1:1, in the",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_texttoolsstudio,TextToolsStudio,SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-let-a-subagent-workflow-refactor,I let a subagent workflow refactor,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vidscio,VidScio,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,1,1,0.0,0.0,0.0,1.0,D: 信号稀疏
+recent_npx-x402-hosting-deploy,npx x402-hosting deploy,AI Products,show_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_square-sketch,Square Sketch,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_efficient-way-to-learn-breadth-first-connecting,"Efficient way to learn breadth-first, connecting",SaaS / Software,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_i-built-a-search-engine-for,I built a search engine for,AI Products,show_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_nori-robotics,Nori Robotics,Hardware,launch_hn,2026,0,0,0,1,1,1,0,1,0,1,0.0,1.0,0.0,0.0,D: 信号稀疏
+recent_almanac,Almanac,AI Products,launch_hn,2026,2,0,1,2,2,1,0,3,2,8,0.5,1.0,0.0,2.0,D: 信号稀疏
+recent_hebbian-robotics,Hebbian Robotics,Hardware,launch_hn,2026,1,0,1,2,2,1,0,3,1,7,1.0,2.0,0.0,1.0,D: 信号稀疏
+recent_ask-hn-launch-board-built-only,Ask HN: Launch board built only,SaaS / Software,launch_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_salem-robotics,Salem Robotics,Hardware,launch_hn,2026,1,0,1,0,0,0,0,0,1,4,1.0,0.0,0.0,1.0,D: 信号稀疏
+recent_risklytics,Risklytics,Hardware,launch_hn,2026,2,0,0,1,1,1,0,1,0,3,0.0,0.5,0.0,0.0,D: 信号稀疏
+recent_self-hosted-social-media-agents-with-raspberry,Self-Hosted Social Media Agents with Raspberry,AI Products,launch_hn,2026,2,0,1,1,0,0,0,0,1,5,0.5,0.0,0.0,1.0,D: 信号稀疏
+recent_aristra-your-life-os,"Aristra, your life OS",AI Products,launch_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_zero-friction-local-ai-for,Zero () friction local AI for,Hardware,launch_hn,2026,3,0,0,1,1,1,0,1,0,4,0.0,0.333,0.0,0.0,D: 信号稀疏
+recent_we-chased-a-weather-balloon-across,We chased a weather balloon across,Hardware,launch_hn,2026,1,0,0,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_vendo,Vendo,AI Products,launch_hn,2026,2,0,0,1,1,1,0,1,0,4,0.0,0.5,0.0,0.0,D: 信号稀疏
+recent_sheeplaunch,Sheeplaunch,Marketplace / Platform Products,launch_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
+recent_an-attempt-to-do-a-healthy,An attempt to do a healthy,Hardware,launch_hn,2026,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,D: 信号稀疏
