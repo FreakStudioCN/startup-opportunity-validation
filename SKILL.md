@@ -14,6 +14,7 @@ Use this skill to decide which opportunity should receive the next low-cost mark
 - **Discover from the local corpus:** begin with the bundled cross-signal cluster table, then inspect traceable evidence before proposing a candidate.
 - **Design an experiment:** read `references/experiment-design.md` and produce a 3–7 day card with an offer, channel, strong signal, kill rule, and cost/time cap.
 - **Review results:** update the evidence level and make only `Kill`, `Modify`, `Escalate`, or `Deliver` recommendations.
+- **Distill a corpus:** use `scripts/distill_corpus.py` to create a compact, evidence-linked knowledge pack before using an optional local LLM for prose synthesis.
 
 ## Operating rules
 
@@ -23,6 +24,7 @@ Use this skill to decide which opportunity should receive the next low-cost mark
 4. An automatic score is only a pre-screen. Explicitly flag buyer identity, budget, delivery feasibility, unit economics, compliance, and hardware supply-chain risk for human review when not directly evidenced.
 5. Use the supplied research tables by default. Do not rerun crawlers, fetch new data, send outreach, or contact prospects unless the user explicitly requests that action.
 6. For hardware, split the output into a market-validation line and an engineering-validation line. Preorders, demos, and launch attention do not establish ongoing use or repeat demand.
+7. For knowledge compression, retain record IDs, source URLs/paths, counts, and representative evidence. Do not call an LLM a replacement for the source corpus.
 
 ## Standard output
 
