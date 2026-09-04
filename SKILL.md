@@ -14,7 +14,7 @@ Use this skill to decide which opportunity should receive the next low-cost mark
 - **Discover from the local corpus:** begin with the bundled cross-signal cluster table, then inspect traceable evidence before proposing a candidate.
 - **Design an experiment:** read `references/experiment-design.md` and produce a 3–7 day card with an offer, channel, strong signal, kill rule, and cost/time cap.
 - **Review results:** update the evidence level and make only `Kill`, `Modify`, `Escalate`, or `Deliver` recommendations.
-- **Distill a corpus:** use `scripts/distill_corpus.py` to create a compact, evidence-linked knowledge pack before using an optional local LLM for prose synthesis.
+- **Distill a corpus:** use `scripts/distill_corpus.py` to create a compact, evidence-linked knowledge pack without requiring a model download or GPU.
 
 ## Operating rules
 

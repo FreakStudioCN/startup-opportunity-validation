@@ -113,6 +113,22 @@ def lifecycle_summary(rows):
     return result
 
 
+def evidence_cards(cards):
+    lines = ["# 主题证据卡", "", "每张卡均为算法聚类和固定模板输出；结论必须回查所列证据 ID。", ""]
+    for card in cards:
+        lines.extend([
+            f"## {card['cluster_id']}（{card['record_count']} 条证据）",
+            f"- 主题关键词：{card['terms']}",
+            f"- 信号构成：{card['signals']}",
+            f"- 高频来源：{card['top_domains']}",
+            f"- 代表证据 ID：{card['representative_evidence_ids']}",
+            f"- 代表标题：{card['representative_titles']}",
+            "- 解读边界：这是待验证的主题线索，不是需求、预算或付费结论。",
+            "",
+        ])
+    return "\n".join(lines)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", type=Path, default=ROOT / "knowledge-pack")
@@ -126,6 +142,7 @@ def main():
     lifecycle = read_csv(DATA / "04_recent_project_feature_scores.csv")
     cards, vectorized_records, features = build_evidence_clusters(evidence, args.clusters)
     write_csv(args.output / "evidence-clusters.csv", cards, list(cards[0]) if cards else [])
+    (args.output / "evidence-cards.md").write_text(evidence_cards(cards), encoding="utf-8")
     (args.output / "opportunity-atlas.md").write_text(opportunity_atlas(opportunities), encoding="utf-8")
     lrows = lifecycle_summary(lifecycle)
     write_csv(args.output / "lifecycle-summary.csv", lrows, list(lrows[0]) if lrows else [])
